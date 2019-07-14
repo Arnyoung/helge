@@ -3276,7 +3276,7 @@
 /* Header */
 
 	body.subpage {
-		padding-top: 5em;
+		padding-top: 6em;
 		background: #34A853
 	}
 
@@ -3433,7 +3433,7 @@
 	@media screen and (max-width: 980px) {
 
 		body.subpage {
-			padding-top: 3rem;
+			padding-top: 5rem;
 		}
 
 		#header {
