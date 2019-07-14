@@ -3276,7 +3276,8 @@
 /* Header */
 
 	body.subpage {
-		padding-top: 3.125em;
+		padding-top: 5em;
+		background: #34A853
 	}
 
 	@-moz-keyframes reveal-header {
@@ -3432,7 +3433,7 @@
 	@media screen and (max-width: 980px) {
 
 		body.subpage {
-			padding-top: 50px;
+			padding-top: 3rem;
 		}
 
 		#header {
@@ -3537,7 +3538,7 @@
 			right: 0;
 			text-align: right;
 			top: 0;
-			vertical-align: middle;
+		
 			width: 7em;
 		}
 
