@@ -3763,6 +3763,23 @@
 			z-index: 1;
 		}
 
+		/* iPad */
+
+		@media only screen 
+		and (min-device-width : 768px) 
+		and (max-device-width : 1024px)  { 
+			
+			#banner {
+				background-attachment: scroll;
+				min-height: 0;
+				padding: 8em 2em 4em 2em;
+			}
+
+				#banner h1 {
+					font-size: 6em;
+				}
+		}
+
 		@media screen and (max-width: 980px) {
 
 			#banner {
