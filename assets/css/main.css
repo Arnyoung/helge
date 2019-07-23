@@ -3937,7 +3937,7 @@
 		-ms-justify-content: center;
 		justify-content: center;
 		background-position: center;
-		background-size: contain;
+		background-size: cover;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		border-top: 0;
